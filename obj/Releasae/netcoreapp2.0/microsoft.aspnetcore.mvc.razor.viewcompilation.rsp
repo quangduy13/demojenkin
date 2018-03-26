@@ -1,0 +1,11 @@
+/home/hoatv/dotnet-docker-samples/aspnetapp
+--output-path=obj/Releasae/netcoreapp2.0/
+--application-name=aspnetapp
+--content-root=/home/hoatv/dotnet-docker-samples/aspnetapp
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/Home/About.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/Home/Contact.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/Home/Index.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/Shared/Error.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/Shared/_Layout.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/_ViewImports.cshtml
+--file=/home/hoatv/dotnet-docker-samples/aspnetapp/Views/_ViewStart.cshtml

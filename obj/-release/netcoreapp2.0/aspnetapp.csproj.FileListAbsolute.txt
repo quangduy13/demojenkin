@@ -1,0 +1,10 @@
+/home/hoatv/dotnet-docker-samples/aspnetapp/bin/-release/netcoreapp2.0/aspnetapp.deps.json
+/home/hoatv/dotnet-docker-samples/aspnetapp/bin/-release/netcoreapp2.0/aspnetapp.runtimeconfig.json
+/home/hoatv/dotnet-docker-samples/aspnetapp/bin/-release/netcoreapp2.0/aspnetapp.runtimeconfig.dev.json
+/home/hoatv/dotnet-docker-samples/aspnetapp/bin/-release/netcoreapp2.0/aspnetapp.dll
+/home/hoatv/dotnet-docker-samples/aspnetapp/bin/-release/netcoreapp2.0/aspnetapp.pdb
+/home/hoatv/dotnet-docker-samples/aspnetapp/obj/-release/netcoreapp2.0/aspnetapp.csproj.CoreCompileInputs.cache
+/home/hoatv/dotnet-docker-samples/aspnetapp/obj/-release/netcoreapp2.0/aspnetapp.AssemblyInfoInputs.cache
+/home/hoatv/dotnet-docker-samples/aspnetapp/obj/-release/netcoreapp2.0/aspnetapp.AssemblyInfo.cs
+/home/hoatv/dotnet-docker-samples/aspnetapp/obj/-release/netcoreapp2.0/aspnetapp.dll
+/home/hoatv/dotnet-docker-samples/aspnetapp/obj/-release/netcoreapp2.0/aspnetapp.pdb
